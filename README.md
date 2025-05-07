@@ -7,3 +7,11 @@ O objetivo deste repositório é mostrar funcionalidades simples que os alunos p
 
 Vamos destrinchar um crud simples para aprendizado de conceicos como update, delete, read e creat.
 
+# 2 - Componentes basicos com HTML e PHP
+
+Vamos destrinchar diversos compoenentes HTML + PHP simples para aprendizado de conceicos de aplicação WEB.
+
+# 3 - Barra de navegação (navbar)
+
+Vamos destrinchar uma navbar simples para aprendizado de navegação e conceito de responsividade.
+
