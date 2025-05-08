@@ -353,7 +353,7 @@ formulario.php:
 ---
 lista.php:
 
-<img src="assets/lista.png" width="400" height="200">
+<img src="assets/listv1.png" width="400" height="200">
 ---
 
 ---
