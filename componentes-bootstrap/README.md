@@ -341,13 +341,13 @@ botao.php:
 ---
 checkbox.php:
 
-<img src="assets/checkbox.png" width="400" height="200">
+<img src="assets/checkboxv1.png" width="400" height="200">
 ---
 
 ---
 formulario.php:
 
-<img src="assets/formulario.png" width="400" height="200">
+<img src="assets/formulariov1.png" width="400" height="200">
 ---
 
 ---
@@ -365,13 +365,13 @@ modal.php:
 ---
 select.php:
 
-<img src="assets/selecct.png" width="400" height="200">
+<img src="assets/selectv1.png" width="400" height="200">
 ---
 
 ---
 tabela.php:
 
-<img src="assets/tabela.png" width="400" height="200">
+<img src="assets/tabelav1.png" width="400" height="200">
 ---
 
 ---
@@ -383,7 +383,7 @@ toast.php:
 ---
 validacao.php:
 
-<img src="assets/validacao.png" width="400" height="200">
+<img src="assets/validacaov1.png" width="400" height="200">
 ---
 
 ✅ Até o momento:
