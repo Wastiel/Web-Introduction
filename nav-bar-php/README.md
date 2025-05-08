@@ -194,7 +194,7 @@ Com os códigos acima, verificamos que mantemos padrão de cabeçalho, rodaé e 
 
 Nosso resultado até aqui: 
 
-<img src="assets/nav-bar-v-1.png" width="800" height="600">
+<img src="assets/navbarv1.png" width="800" height="600">
 
 ## Adicionando um menu com dropdown na nossa navbar
 
