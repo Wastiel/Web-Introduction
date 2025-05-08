@@ -335,7 +335,7 @@ index.php:
 ---
 botao.php:
 
-<img src="assets/botao.png" width="400" height="200">
+<img src="assets/botaov1.png" width="400" height="200">
 ---
 
 ---
