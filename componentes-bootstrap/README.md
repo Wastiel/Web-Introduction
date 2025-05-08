@@ -341,7 +341,7 @@ botao.php:
 ---
 checkbox.php:
 
-<img src="assets/checkboxv1.png" width="400" height="200">
+<img src="assets/checkv1.png" width="400" height="200">
 ---
 
 ---
