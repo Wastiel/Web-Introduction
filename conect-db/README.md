@@ -133,7 +133,7 @@ A página exibirá algo como:
 | 2   | Online     | Sim   |
 | 3   | Telefone   | Sim   |
 
-<img src="assets/dados_listados_banco.png" width="800" height="600">
+<img src="assets/conexao.jpg" width="800" height="600">
 
 📌 Conclusao
 
